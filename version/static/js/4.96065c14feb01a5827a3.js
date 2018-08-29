@@ -1,2 +1,0 @@
-webpackJsonp([4],{"O+Cc":function(e,t){},XJID:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"fouth"},[this._v("\n   测试页面四\n")])},staticRenderFns:[]};var c=n("VU/8")(null,s,!1,function(e){n("O+Cc")},null,null);t.default=c.exports}});
-//# sourceMappingURL=4.96065c14feb01a5827a3.js.map
